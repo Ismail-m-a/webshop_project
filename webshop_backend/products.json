@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Diamond Necklace",
+    "image": "necklace.jpg",
+    "price": 5000,
+    "description": "A luxurious necklace featuring premium quality diamonds, designed to offer a touch of elegance and sophistication.",
+    "imageUrl": "/src/images/necklace.jpg",
+    "quantity": 5,
+    "itemTotal": 25000
+  }
+]

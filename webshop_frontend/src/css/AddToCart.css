@@ -1,0 +1,7 @@
+
+/* Responsivtet */
+@media (max-width: 768px) {
+  .my-custom-btn {
+    margin-top: 20px; 
+  }
+}

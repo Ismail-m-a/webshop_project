@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Diamond Necklace",
+    "image": "necklace.jpg",
+    "price": "$5000",
+    "description": "A luxurious necklace featuring premium quality diamonds, designed to offer a touch of elegance and sophistication."
+  },
+  {
+    "id": 2,
+    "name": "Vintage Rolex Watch",
+    "image": "rolexwatch.jpg",
+    "price": "$12000",
+    "description": "A timeless piece that combines classic design with unmatched precision, embodying the essence of luxury and craftsmanship."
+  },
+  {
+    "id": 3,
+    "name": "Oil Painting by Picasso",
+    "image": "oilpainting.jpg",
+    "price": "$200000",
+    "description": "An original masterpiece by Pablo Picasso, this oil painting captures the unique style and genius of one of the most influential artists of the 20th century."
+  },
+  {
+    "id": 4,
+    "name": "Rare Coin Collection",
+    "image": "rarecoin.jpg",
+    "price": "$3000",
+    "description": "An exquisite collection of rare and historical coins, offering a glimpse into the rich history and culture of various civilizations."
+  },
+  {
+    "id": 5,
+    "name": "Antique Furniture Set",
+    "image": "furniture.jpg",
+    "price": "$4500",
+    "description": "A set of beautifully crafted antique furniture, showcasing the elegance and charm of vintage design and craftsmanship."
+  },
+  {
+    "id": 6,
+    "name": "Limited Edition Sneakers",
+    "image": "sneakers.jpg",
+    "price": "$200",
+    "description": "Exclusive and trendy, these limited edition sneakers represent the pinnacle of streetwear fashion and desirability."
+  },
+  {
+    "id": 7,
+    "name": "Handcrafted Wooden Guitar",
+    "image": "guitar.jpg",
+    "price": "$1500",
+    "description": "A meticulously handcrafted wooden guitar, known for its exceptional sound quality and artistic value, appealing to both musicians and collectors."
+  },
+  {
+    "id": 8,
+    "name": "Vintage Typewriter",
+    "image": "typewriter.jpg",
+    "price": "$800",
+    "description": "A classic vintage typewriter that harks back to the golden era of writing, offering a unique tactile experience and aesthetic appeal."
+  },
+  {
+    "id": 9,
+    "name": "Rare Stamp Collection",
+    "image": "stamp.jpg",
+    "price": "$600",
+    "description": "A valuable collection of rare stamps, each telling a story from different corners of the world, cherished by philatelists and historians alike."
+  },
+  {
+    "id": 10,
+    "name": "Crystal Chandelier",
+    "image": "crystal.jpg",
+    "price": "$2500",
+    "description": "An opulent crystal chandelier that radiates luxury, transforming any room into a dazzling display of light and elegance."
+  },
+  {
+    "id": 11,
+    "name": "Antique Pocket Watch",
+    "image": "pocketwatch.jpg",
+    "price": "$700",
+    "description": "A testament to timeless craftsmanship, this antique pocket watch combines historical significance with intricate design."
+  },
+  {
+    "id": 12,
+    "name": "Hand-Painted Porcelain Plates",
+    "image": "plate.jpg",
+    "price": "$400",
+    "description": "Exquisite porcelain plates, each hand-painted with attention to detail, showcasing artistic beauty and sophistication."
+  },
+  {
+    "id": 13,
+    "name": "Rare Book Collection",
+    "image": "rarebooks.jpg",
+    "price": "$2500",
+    "description": "A collection of rare books, offering a treasure trove of knowledge, history, and timeless literature to bibliophiles."
+  },
+  {
+    "id": 14,
+    "name": "Vintage Camera",
+    "image": "vcamera.jpg",
+    "price": "$550",
+    "description": "A vintage camera, capturing the essence of photography with its historical significance and unique mechanical charm."
+  },
+  {
+    "id": 15,
+    "name": "Antique Silverware Set",
+    "image": "silverset.jpg",
+    "price": "$900",
+    "description": "An elegant set of antique silverware, reflecting the grandeur of fine dining traditions with its intricate designs and craftsmanship."
+  },
+  {
+    "id": 16,
+    "name": "Rare Vinyl Records",
+    "image": "vinylrecords.jpg",
+    "price": "$300",
+    "description": "An exquisite collection of rare vinyl records, each piece a testament to the rich history and depth of music. This selection spans various genres and eras, appealing to collectors and audiophiles alike."
+  },
+  {
+    "id": 17,
+    "name": "Designer Handbag",
+    "image": "handbag.jpg",
+    "price": "$1100",
+    "description": "A luxurious designer handbag that combines elegance with practicality. Made from premium materials, it's a statement piece for fashion enthusiasts."
+  },
+  {
+    "id": 18,
+    "name": "Antique Tea Set",
+    "image": "teaset.jpg",
+    "price": "$650",
+    "description": "A beautifully crafted antique tea set, reminiscent of a bygone era. This set includes teacups, saucers, and a teapot, each piece showcasing intricate designs."
+  },
+  {
+    "id": 19,
+    "name": "Handcrafted Jewelry Box",
+    "image": "jewelrybox.jpg",
+    "price": "$250",
+    "description": "A meticulously handcrafted jewelry box, perfect for storing precious items. Its unique design and craftsmanship make it not just a storage solution, but a piece of art."
+  },
+  {
+    "id": 20,
+    "name": "Vintage Wine Collection",
+    "image": "wine.jpg",
+    "price": "$5000",
+    "description": "An impressive collection of vintage wines, carefully curated for the connoisseur. This selection represents some of the finest vintages, promising an unparalleled tasting experience."
+  }
+]  
