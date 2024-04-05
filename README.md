@@ -5,4 +5,4 @@ Run frontend:
 
 3. Run Backend:
 1. npm install .
-4. start with - nodemon ./src/index.js
+4. start with - nodemon .index.js
