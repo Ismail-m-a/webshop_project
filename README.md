@@ -1,5 +1,5 @@
-Project is built with Vite+React, Node.js using JSON fil as DB
-Run frontend:
+#Project is built with Vite+React, Node.js using JSON fil as DB.
+##Run frontend:
 1. npm install
 2. start with npm run dev
 
